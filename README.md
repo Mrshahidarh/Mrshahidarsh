@@ -94,9 +94,7 @@ Integral University, Lucknow (2021–2025)
 
 ---
 
- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+ ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mrshahidarh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-
-⭐ From [Md Shahid Ali](https://github.com/Mrshahidarh)
+ 
